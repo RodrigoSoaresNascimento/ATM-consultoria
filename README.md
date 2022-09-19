@@ -3,7 +3,7 @@
 <h2 align="center">Tecnologias usadas</h2>
 <p align="center">
  <a href="#tecnologias">
- Gradle, java 11, Docker, Android studio.</a> • 
+ Gradle, java 11, Android studio.</a> • 
 </p>
 
 <h2 align="center">Banco de Dados</h2>
