@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Concentual Project 🚀 Em construção...  🚧
+	🚧  Conceitual Project 🚀 Em construção...  🚧
 </h4>
 
 ## Contribuindo
