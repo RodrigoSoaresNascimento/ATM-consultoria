@@ -1,9 +1,9 @@
-<h1 align="center">ATM Consultoria</h1>
-<p align="center">Este projeto foi feito baseado no curso desenvolvimento android completo, o objetivo colocar em pratica conceitos de fragment e activities</p>
+<h1 align="center">Projeto conceitual de modelagem em banco de dados</h1>
+<p align="center">Refinando um Projeto Conceitual de Banco de Dados – E-COMMERCE</p>
 <h2 align="center">Tecnologias usadas</h2>
 <p align="center">
  <a href="#tecnologias">
- Gradle, java 11, Android studio.</a> • 
+	lucid - chart.</a> • 
 </p>
 
 <h2 align="center">Banco de Dados</h2>
@@ -13,7 +13,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Java Project 🚀 Em construção...  🚧
+	🚧  Concentual Project 🚀 Em construção...  🚧
 </h4>
 
 ## Contribuindo
